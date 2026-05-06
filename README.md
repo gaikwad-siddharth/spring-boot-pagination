@@ -49,3 +49,12 @@ src/main/java/in/siddharth/
 
 ```java
 Page<Entity> findAll(Pageable pageable);
+
+▶️ How to Run
+Clone the repository
+Open in IDE (Eclipse / IntelliJ)
+Configure database in application.properties
+Run Application.java
+
+👨‍💻 Author
+Siddharth Gaikwad
