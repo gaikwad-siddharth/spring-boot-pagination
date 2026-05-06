@@ -23,3 +23,9 @@ Pagination is a key feature in real-world applications to improve performance an
 ---
 
 ## 🏗️ Project Structure
+src/main/java/in/siddharth/
+├── Application.java
+├── entity/
+│ └── Employee.java
+└── repo/
+└── EmployeeRepository.java
