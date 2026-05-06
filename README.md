@@ -29,3 +29,23 @@ src/main/java/in/siddharth/
 │ └── Employee.java
 └── repo/
 └── EmployeeRepository.java
+
+
+---
+
+## ⚙️ Tech Stack
+
+- Java  
+- Spring Boot  
+- Spring Data JPA  
+- Hibernate  
+- Maven  
+
+---
+
+## 📄 Pagination Example
+
+### Repository Method
+
+```java
+Page<Entity> findAll(Pageable pageable);
